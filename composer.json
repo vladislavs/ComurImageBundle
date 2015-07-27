@@ -11,7 +11,7 @@
             "email": "omur.can@gmail.com",
             "homepage": "http://canomur.com"
         }
-    ]
+    ],
     "require": {
         "php": ">=5.3.0",
         "ext-gd": "*",
@@ -36,10 +36,5 @@
             "dev-master": "1.0-dev"
         }
     },
-    "version": "dev-master",
-    "source": {
-        "url": "git://github.com/vladislavs/ComurImageBundle.git",
-        "type": "git",
-        "reference": "master"
-    }
+    "version": "dev-master"
 }
